@@ -20,7 +20,7 @@ git clone https://github.com/Snippets-For-Discord/old-mentions
 ```
 
 **For BetterDiscord:**
-- [Direct Download](https://betterdiscord.net/ghdl?id=)
+- [Direct Download](https://betterdiscord.net/ghdl?id=3548)
 - [View Source](https://raw.githubusercontent.com/Snippets-For-Discord/old-mentions/main/src/support/OldMentions.theme.css)
 
 **For Browser / Web:**
