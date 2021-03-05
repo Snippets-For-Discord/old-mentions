@@ -5,7 +5,7 @@ Bring back Discord's old mentions.
 
 ![Preview](./screenshots/screenshot.png)
 
-## Applying the Snippet
+# Applying the Snippet
 For the people who would like to use this in their themes:
 - You can copy-paste the code into your own source, simple.
 - Please give credit, whether it's in the README.md or in the source, please make sure you give credit for using this. If you don't, then oh well that's just.. RIP.
@@ -13,7 +13,7 @@ For the people who would like to use this in their themes:
 For the people who just want the snippet itself:
 - Follow the directions below "**Installation**" for the process of installing the snippet based on the client mod you're using. Either that or you can go into `./src/index.css` and copy-paste it into your Quick CSS (or whatever you use).
 
-### Installation
+## Installation
 For **[Powercord](https://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, go to **Themes -> Open CMD / Powershell / Terminal / Gitbash**, and enter the following:
 ```
 git clone https://github.com/Snippets-For-Discord/old-mentions
