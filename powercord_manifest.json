@@ -1,0 +1,9 @@
+{
+    "name": "Old Mentions",
+    "description": "Bring back Discord's old mentions.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "./src/index.scss",
+    "consent": "false",
+    "license": "MIT"
+}
